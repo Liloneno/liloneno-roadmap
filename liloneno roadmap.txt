@@ -6,4 +6,6 @@ Roadmap liloneno aprende front-end development mak hanesan tuirmai ne'e:
     A. 1-4: css grid & Flexbox;
     B. 5-25: Javascript;
     C. 26-28: Create a Project;
+   3. Marsu:
+    A. Kontinua Javascript;
     
