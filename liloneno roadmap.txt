@@ -1,0 +1,9 @@
+Roadmap liloneno aprende front-end development mak hanesan tuirmai ne'e:
+  1. Janeiru: 
+    A. 1-26: HTML, CSS, Programming Lesson, Git & Github;
+    B. 27-31: Create a simple website using html & css.
+  2. February:
+    A. 1-4: css grid & Flexbox;
+    B. 5-25: Javascript;
+    C. 26-28: Create a Project;
+    
